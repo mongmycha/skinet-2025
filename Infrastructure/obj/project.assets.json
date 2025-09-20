@@ -2762,19 +2762,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\mongm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\AI Journey\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "F:\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\demo\\skinet\\Infrastructure\\obj\\",
+      "projectPath": "D:\\AI Journey\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
+      "outputPath": "D:\\AI Journey\\demo\\skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -2786,8 +2786,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "F:\\demo\\skinet\\Core\\Core.csproj": {
-              "projectPath": "F:\\demo\\skinet\\Core\\Core.csproj"
+            "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj": {
+              "projectPath": "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj"
             }
           }
         }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\demo\\skinet\\Core\\Core.csproj": {}
+    "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "F:\\demo\\skinet\\Core\\Core.csproj": {
+    "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\demo\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "F:\\demo\\skinet\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\demo\\skinet\\Core\\obj\\",
+        "projectPath": "D:\\AI Journey\\demo\\skinet\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
+        "outputPath": "D:\\AI Journey\\demo\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
