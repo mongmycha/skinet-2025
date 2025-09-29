@@ -52,7 +52,7 @@ public class ProductRepository : IProductRepository
                 _ => query.OrderBy(x => x.Name)
             };
 
-        return await query.ToListAsync();
+        return await query.Skip(5).Take(5).ToListAsync();           // pagination
     }
 
     public async Task<IReadOnlyList<string>> GetTypesAsync()
